@@ -1,4 +1,4 @@
-# N
+# N2
 N was really an esolang and unrun was false and run was true, well i got some due to current modes. i hope i got dem from the esolangs wiki
 # keywords
 keywords are similar things, i'll show you the keywords.
