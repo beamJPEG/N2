@@ -12,3 +12,7 @@ and unrun - false on var in the end.
 based huh, i did this esolang, but i did this thing
 # about them
 i dont know???
+# hello world exammple
+start print "Hello, World!" end
+# what is your first esolang
+it's my first esolang
