@@ -60,9 +60,6 @@ while True:
                 else:
                     print("Else statement")
                 break
-                
-    else:
-        print("Invalid input")
     
     elif user_input.startswith("repeat "):
         # Extract number from user input
@@ -79,5 +76,3 @@ while True:
         
     else:
         print("Invalid input")
-
-
