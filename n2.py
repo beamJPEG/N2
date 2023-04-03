@@ -63,3 +63,21 @@ while True:
                 
     else:
         print("Invalid input")
+    
+    elif user_input.startswith("repeat "):
+        # Extract number from user input
+        n = int(user_input.split("repeat ", 1)[1])
+        # Repeat loop n times
+        for i in range(n):
+            print(f"Loop {i+1}")
+                
+    elif user_input.startswith("print formatte "):
+        # Extract formatted text from user input
+        text = user_input.split("print formatte ", 1)[1]
+        # Print formatted text to console
+        print(text.format())
+        
+    else:
+        print("Invalid input")
+
+
